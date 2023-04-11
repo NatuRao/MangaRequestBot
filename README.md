@@ -1,4 +1,4 @@
-# manga-request-bot
+# MangaRequestBot
 A module for requesting mangas
 
 ## Info
