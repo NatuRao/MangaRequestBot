@@ -4,6 +4,8 @@ A module for requesting mangas
 ## Info
 This bot is used to fetch the requests from telegram and will send it to google sheets, from where it is easier to analyse the requests.
 
+**This module was merged in MangaDigestionBot-Pyrogram**
+
 ## Telegram Channel
 [MangaDigestion](https://t.me/MangaDigestion)
 
